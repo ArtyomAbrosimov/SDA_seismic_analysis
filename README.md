@@ -1,1 +1,0 @@
-# SDA_seismic_analysis
